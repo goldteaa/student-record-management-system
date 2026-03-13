@@ -13,6 +13,7 @@ This project demonstrates object-oriented programming, modular architecture, and
 - Basic unit testing
 
 ## Project Structure
+'''
 student-record-management-system
 │
 ├── models/ # Data models (Person, Student, GraduateStudent)
@@ -23,7 +24,7 @@ student-record-management-system
 ├── README.md
 ├── LICENSE
 └── .gitignore
-
+'''
 
 ## Technologies Used
 
@@ -61,3 +62,8 @@ This project demonstrates:
 - Data import/export with CSV and JSON
 - Writing simple unit tests
 - Structuring Python projects for maintainability
+
+
+## Author
+
+AM, UNYT
